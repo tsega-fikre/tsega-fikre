@@ -1,8 +1,6 @@
 
 <p align="center">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡;Ethical+Hacker;Cybersecurity+Researcher;Web+Penetration+Tester;Vice+Chairman+of+JU+Cybersecurity+Club;Future+Red+Team+Operator" alt="Typing SVG" />
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡;Ethical+Hacker;Cybersecurity+Researcher;Web+Penetration+Tester;Vice+Chairman+of+JU+Cybersecurity+Club;Future+Red+Team+Operator" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -31,19 +29,19 @@
 
 ```yaml
 ┌──────────────────────────────────────────┐
-│  Cybersecurity-focused Software Engineer │
-│  Passionate about offensive security     │
-│  Building tools for:                     │
-│    ➤ Web Security                        │
-│    ➤ Network Scanning                    │
-│    ➤ Password Security                   │
-│    ➤ Vulnerability Detection             │
-│                                          │
-│  Currently leveling up:                  │
-│    ➤ Web Exploitation                    │
-│    ➤ Red Teaming                         │
-│    ➤ Linux & Networking                  │
-│    ➤ Python Automation                   │
+│  Cybersecurity-focused Software Engineer     │
+│  Passionate about offensive security         │
+│  Building tools for:                         │
+│    ➤ Web Security                            │
+│    ➤ Network Scanning                        │
+│    ➤ Password Security                       │
+│    ➤ Vulnerability Detection                 │
+│                                              │
+│  Currently leveling up:                      │
+│    ➤ Web Exploitation                        │
+│    ➤ Red Teaming                             │
+│    ➤ Linux & Networking                      │
+│    ➤ Python Automation                       │
 └──────────────────────────────────────────┘
 ```
 
