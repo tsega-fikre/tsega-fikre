@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡;Ethical+Hacker;Cybersecurity+Researcher;Web+Penetration+Tester;Vice+Chairman+of+JU+Cybersecurity+Club;Future+Red+Team+Operator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡" alt="Typing Animation" />
 </p>
 
    
