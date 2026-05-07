@@ -1,9 +1,9 @@
-<div align="center">
+<h1 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡;Ethical+Hacker;Cybersecurity+Researcher" 
     alt="Typing SVG" 
   />
-</div>
+</h1>
 
    
       ╔═══════════════════════════════════════════╗  
