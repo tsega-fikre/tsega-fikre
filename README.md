@@ -3,21 +3,6 @@
 </div>
 
    
-      ╔═══════════════════════════════════════════╗  
-      ║  🛡️  CLASSIFIED IDENTITY FILE  🛡️              
-      ╠═══════════════════════════════════════════╣  
-      ║  NAME:     TSEGAZEAB FIKRE                     
-      ║  ALIAS:    NILE PHANTOM                     
-      ║  ROLE:     CYBERSECURITY OPERATOR           
-      ║  CLEARANCE: LEVEL 7 (ETHICAL HACKER)        
-      ║  STATUS:   🟢 ACTIVE                       
-      ║  LOCATION: ETHIOPIA 🇪🇹                     
-      ╚═══════════════════════════════════════════╝  
-    
-
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tsega-fikre&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
