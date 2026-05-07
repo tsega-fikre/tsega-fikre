@@ -1,7 +1,22 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+TSEGAZEAB+FIKRE+⚡;Ethical+Hacker;Cybersecurity+Researcher;Web+Penetration+Tester;Vice+Chairman+of+JU+Cybersecurity+Club;Future+Red+Team+Operator" alt="Typing Animation" />
-</p>
+
+
+   
+      ╔═══════════════════════════════════════════╗  
+      ║  🛡️  CLASSIFIED IDENTITY FILE  🛡️              
+      ╠═══════════════════════════════════════════╣  
+      ║  NAME:     TSEGAZEAB FIKRE                     
+      ║  ALIAS:    NILE PHANTOM                     
+      ║  ROLE:     CYBERSECURITY OPERATOR           
+      ║  CLEARANCE: LEVEL 7 (ETHICAL HACKER)        
+      ║  STATUS:   🟢 ACTIVE                       
+      ║  LOCATION: ETHIOPIA 🇪🇹                     
+      ╚═══════════════════════════════════════════╝  
+    
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tsega-fikre&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
