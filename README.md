@@ -28,7 +28,7 @@
 
 ## ⚔️ <span style="color:#00F7FF;">ABOUT ME</span>
 
-```yaml
+
 ┌──────────────────────────────────────────┐
 │  Cybersecurity-focused Software Engineer     │
 │  Passionate about offensive security         │
