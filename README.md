@@ -26,29 +26,13 @@
 
 ---
 
-## ⚔️ <span style="color:#00F7FF;">ABOUT ME</span>
 
-```yaml
-┌──────────────────────────────────────────┐
-│  Cybersecurity-focused Software Engineer     │
-│  Passionate about offensive security         │
-│  Building tools for:                         │
-│    ➤ Web Security                            │
-│    ➤ Network Scanning                        │
-│    ➤ Password Security                       │
-│    ➤ Vulnerability Detection                 │
-│                                              │
-│  Currently leveling up:                      │
-│    ➤ Web Exploitation                        │
-│    ➤ Red Teaming                             │
-│    ➤ Linux & Networking                      │
-│    ➤ Python Automation                       │
-└──────────────────────────────────────────┘
-```
+ <h2 style="color:#00F7FF;" align=center>⚔️  ABOUT ME</h2>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity-focused+Software+Engineer;Passionate+about+offensive+security;Building+tools+for+Web+Security;Network+Scanning+%26+Vulnerability+Detection" /> </p><p align="center"> <code>🔐 Web Security</code> •  <code>🌐 Network Scanning</code> •  <code>🔑 Password Security</code> •  <code>🐞 Vulnerability Detection</code> </p><p align="center"> <strong>📚 Currently leveling up:</strong> </p><p align="center"> <code>⚡ Web Exploitation</code> →  <code>🔴 Red Teaming</code> →  <code>🐧 Linux & Networking</code> →  <code>🐍 Python Automation</code> </p>
 
 ---
 
-## 🚀 <span style="color:#00F7FF;">FEATURED PROJECTS</span>
+  <h2 style="color:#00F7FF;" align="center">🚀 FEATURED PROJECTS</h2>
 
 <table>
   <tr>
